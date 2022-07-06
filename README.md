@@ -1,6 +1,7 @@
 # MovieInfoBackend
-### This is the Backend Project for Movie Info Website(Client)
-### Developed based on the SpringBoot
+* This is the Backend Project for Movie Info Website(Client)
+* Developed based on the SpringBoot
+
 ### The Overall Structure
 ![image](https://user-images.githubusercontent.com/58356151/177513596-0ec3f166-af33-40e0-9483-ccdffb428e26.png)
 
