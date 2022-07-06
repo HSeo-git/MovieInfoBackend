@@ -1,4 +1,4 @@
-# MovieInfoBackend
+# Movie Info Backend
 
 ## Description
 * This is the Backend Project for Movie Info Website(Client).
